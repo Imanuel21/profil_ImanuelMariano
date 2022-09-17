@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 2rem;
+  color: white;
+}
+video {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  opacity: 100%;
+  z-index: -1;
+}
+.judul {
+  color: white;
+  padding-top: 2rem;
+  size: 40;
+}
+.carousel.slide {
+  padding-left: 25rem;
+  padding-top: 5rem;
+}
+h5,
+.x {
+  padding-right: 24rem;
+}
